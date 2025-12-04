@@ -1,1 +1,2 @@
-# collab-cs220-f25
+# cs220-collab-f25
+A space to collaborate.
